@@ -1,6 +1,5 @@
 from typing import Generator
 from amadeus import Client, Response, ResponseError
-
 from models import Flight
 
 class Flights:
